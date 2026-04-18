@@ -123,3 +123,9 @@ fall back to PowerShell:
 ## License
 
 MIT. Use and adapt freely.
+
+## Credits
+
+Diagnosis and fix written collaboratively with [Claude Code](https://claude.com/claude-code)
+while debugging the same bug in a production SDK integration. Published so
+others hitting the same `MODULE_NOT_FOUND` can skip the root-cause hunt.
